@@ -73,3 +73,4 @@ Documentation of the Service Manager CLI and all of it's commands can be found [
 [1]: https://github.com/Peripli/service-manager
 [2]: https://github.com/Peripli/service-manager-cli/releases
 [3]: docs/README.md
+
